@@ -1,0 +1,1 @@
+# Android-Content-Provider-Retrieving-Data-from-Device
